@@ -1,10 +1,10 @@
 # Satisfaction analysis of airplane passengers
 
--Explored data contents and cleaned data using pandas and pyspark respectively
+1.Explored data contents and cleaned data using pandas and pyspark respectively
 
--Visualized data patterns by using seaborn library
+2.Visualized data patterns by using seaborn library
 
--Conducted different algorithms comparison and selection for the dataset
+3.Conducted different algorithms comparison and selection for the dataset
 
--Analyzed predicting results based on the selected models
+4.Analyzed predicting results based on the selected models
 
