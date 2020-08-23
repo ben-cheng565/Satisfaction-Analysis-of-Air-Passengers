@@ -1,4 +1,4 @@
-# Analyzing passengers satisfaction of airplane
+# Satisfaction analysis of airplane passengers
 
 -Explored data contents and cleaned data using pandas and pyspark respectively
 
